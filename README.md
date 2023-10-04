@@ -24,3 +24,15 @@ We will use an imaginary company called AtliQ Hardware and discuss its business 
   - KPI Visual Chart such as Forecast Accuracy %, Net Error, ABS error & showcases the growing trend in Supply Chain View.
   - Key metrics by customer & Product with forecast accuracy %, Net error and Risk.
 - Support Page : This page helps the user with various kinds of support such as Power BI tutorial, Feedback & any FAQ queries.
+**Home Page**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Home_page.JPG)
+**Finance View**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Finance_View.JPG)
+**Sales View**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Sales_view.JPG)
+**Marketing View**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Marketing_view.JPG)
+**Supply Chain View**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Supply_chain_view.JPG)
+**Data Model**
+![Dashboard Preview](https://github.com/RanjoshChoudhary/Power_BI_Business_Insights/blob/main/Data_model.JPG)
